@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Korkut!
 
-<!--
-**KorkutOzdemir/KorkutOzdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A motivated Software Engineering student passionate about building apps, learning backend development, and improving everyday as a developer.
 
-Here are some ideas to get you started:
+🎓 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ -Software Engineering student (2nd year)
+ -Improving algorithm & problem solving skills
+
+
+💻 Languages
+<p align="left">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+</p>
+
+
+📫 Let's Connect
+
+📩 Email: korkutozdemir034@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/korkut-özdemir-4b3660328
