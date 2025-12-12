@@ -6,6 +6,7 @@ A motivated Software Engineering student passionate about building apps, learnin
 
  -Software Engineering student (2nd year)
  -Improving algorithm & problem solving skills
+ 🚀 Always building, always learning!
 
 
 💻 Languages
@@ -22,5 +23,5 @@ A motivated Software Engineering student passionate about building apps, learnin
 
 📫 Let's Connect
 
-📩 Email: korkutozdemir034@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/korkut-özdemir-4b3660328
+📩 -Email: korkutozdemir034@gmail.com
+🔗 -LinkedIn: www.linkedin.com/in/korkut-özdemir-4b3660328
