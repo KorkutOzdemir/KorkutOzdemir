@@ -21,4 +21,5 @@ A motivated Software Engineering student passionate about building apps, learnin
 ### 📫 Let's Connect
 
 - 📩 Email: `korkutozdemir034@gmail.com`  
-- 🔗 LinkedIn: [korkut-ozdemir-4b3660328](https://www.linkedin.com/in/korkut-ozdemir-4b3660328)
+- 🔗 LinkedIn: [[korkut-ozdemir-4b3660328](https://www.linkedin.com/in/korkut-ozdemir-4b3660328)](https://www.linkedin.com/in/korkut-ozdemir-4b3660328/
+
