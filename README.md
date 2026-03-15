@@ -1,8 +1,8 @@
 👋 Hi, I'm Korkut!
 
-      A motivated Software Engineering student passionate about building apps, learning backend development, and improving everyday as a developer. 
+ A motivated Software Engineering student passionate about building apps, learning backend development, and improving everyday as a developer. 
   
-      I share the projects I develop while continuing to improve my coding skills. I aim to participate in teamwork, come up with creative solutions to interesting problems, and keep evolving in the tech world. I see coding as a passion and learning as a lifestyle!
+ I share the projects I develop while continuing to improve my coding skills. I aim to participate in teamwork, come up with creative solutions to interesting problems, and keep evolving in the tech world. I see coding as a passion and learning as a lifestyle!
 
 ### 🎓 About Me
 
