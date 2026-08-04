@@ -6,7 +6,7 @@
 
 ### 🎓 About Me
 
-- Software Engineering student (2nd year)  
+- Software Engineering student (3rd year)  
 - Improving algorithm & problem solving skills 🚀  
 - Always building, always learning!
 
