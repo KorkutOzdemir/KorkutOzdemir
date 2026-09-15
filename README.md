@@ -58,4 +58,4 @@
 ### 📫 Let's Connect
 
 - 📩 Email: `korkutozdemir034@gmail.com`
-- 🔗 LinkedIn: [Korkut Özdemir](www.linkedin.com/in/korkut-özdemir-4b3660328)
+- 🔗 LinkedIn: [Korkut Özdemir](https://www.linkedin.com/in/korkut-özdemir-4b3660328)
