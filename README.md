@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+%26+Mobile+Development;Always+Learning%2C+Always+Building" />
+</p>
+
 👋 Hi, I'm Korkut!
 
  A motivated Software Engineering student passionate about building apps, learning backend development, and improving everyday as a developer. 
